@@ -21,6 +21,61 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-            <<include your coding and its corressponding output screen shots here>>
+
+
+![alt text](<Screenshot 2024-03-14 082307.png>)
+
+
+![alt text](<Screenshot 2024-03-14 082327.png>)
+
+
+![alt text](<Screenshot 2024-03-14 082342.png>)
+
+
+
+![alt text](<Screenshot 2024-03-14 082353.png>)
+
+
+![alt text](<Screenshot 2024-03-14 082406.png>)
+
+
+![alt text](<Screenshot 2024-03-14 082418.png>)
+
+
+![alt text](<Screenshot 2024-03-14 082431.png>)
+
+
+![alt text](<Screenshot 2024-03-14 082501.png>)
+
+
+![alt text](<Screenshot 2024-03-14 082514.png>)
+
+
+![alt text](<Screenshot 2024-03-14 082524.png>)
+
+
+![alt text](<Screenshot 2024-03-14 082539.png>)
+
+
+![alt text](<Screenshot 2024-03-14 082550.png>)
+
+
+![alt text](<Screenshot 2024-03-14 082736.png>)
+
+
+![alt text](<Screenshot 2024-03-14 082747-1.png>)
+
+
+![alt text](<Screenshot 2024-03-14 082758.png>)
+
+
+
+![alt text](<Screenshot 2024-03-14 082816.png>)
+
+
+
 # Result
-          <<include your Result here>>
+
+Thus To read the given data and perform data cleaning and save the cleaned data to a file done successfully.
+
+
